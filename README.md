@@ -13,3 +13,4 @@ Approach
 Create the basic layout of the landing page using HTML that includes a basic nav bar, a basic homepage a body section, and a signup page.
 Style the layout created by HTML using CSS and link the CSS file to the HTML file.
 Create an index.js file and write the JavaScript code to display the nav bar in a sliding menu when the website is viewed on small screens
+#Acess a Landinig page-file:///C:/Users/dmnik/OneDrive/Document
